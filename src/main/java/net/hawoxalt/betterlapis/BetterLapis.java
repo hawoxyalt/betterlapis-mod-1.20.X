@@ -13,6 +13,6 @@ public class BetterLapis implements ModInitializer {
 	public void onInitialize() {
 
 
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Hello, world!");
 	}
 }
