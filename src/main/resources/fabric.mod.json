@@ -16,14 +16,14 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.hawoxalt.betterlapis.BetterLapis"
+			"net.hawoxyalt.betterlapis.BetterLapis"
 		],
 
 		"client": [
-			"net.hawoxalt.betterlapis.BetterLapisClient"
+			"net.hawoxyalt.betterlapis.BetterLapisClient"
 		],
 		"fabric-datagen": [
-			"net.hawoxalt.betterlapis.BetterLapisDataGenerator"
+			"net.hawoxyalt.betterlapis.BetterLapisDataGenerator"
 		]
 	},
 	"mixins": [

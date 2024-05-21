@@ -1,4 +1,4 @@
-package net.hawoxalt.betterlapis.mixin;
+package net.hawoxyalt.betterlapis.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

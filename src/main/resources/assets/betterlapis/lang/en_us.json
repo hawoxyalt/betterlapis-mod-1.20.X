@@ -1,0 +1,16 @@
+{
+  "item.betterlapis.enchanted_lapis": "Enchanted Lapis",
+  "block.betterlapis.enchanted_lapis_block": "Block of Enchanted Lapis",
+
+  "block.betterlapis.enchanted_lapis_stairs": "Enchanted Lapis Stairs",
+  "block.betterlapis.enchanted_lapis_slab": "Enchanted Lapis Slab",
+  "block.betterlapis.enchanted_lapis_button": "Enchanted Lapis Button",
+  "block.betterlapis.enchanted_lapis_pressure_plate": "Enchanted Lapis Pressure Plate",
+  "block.betterlapis.enchanted_lapis_fence": "Enchanted Lapis Fence",
+  "block.betterlapis.enchanted_lapis_fence_gate": "Enchanted Lapis Fence Gate",
+  "block.betterlapis.enchanted_lapis_wall": "Enchanted Lapis Wall",
+  "block.betterlapis.enchanted_lapis_door": "Enchanted Lapis Door",
+  "block.betterlapis.enchanted_lapis_trapdoor": "Enchanted Lapis Trapdoor",
+
+  "itemgroup.enchanted_lapis": "Enchanted Lapis"
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "betterlapis:block/enchanted_lapis_block"
+    }
+  }
+}
