@@ -28,10 +28,11 @@ public class ModRecipeProvider extends FabricRecipeProvider {
                 .criterion(hasItem(Items.GLASS_BOTTLE), conditionsFromItem(Items.GLASS_BOTTLE))
                 .criterion(hasItem(ModItems.ENCHANTED_LAPIS), conditionsFromItem(ModItems.ENCHANTED_LAPIS))
                 .offerTo(exporter, new Identifier(getRecipeName(Items.EXPERIENCE_BOTTLE)));
+
         offerReversibleCompactingRecipes(exporter, RecipeCategory.BUILDING_BLOCKS, ModItems.ENCHANTED_LAPIS, RecipeCategory.DECORATIONS,
                 ModBlocks.ENCHANTED_LAPIS_BLOCK);
-        //offerReversibleCompactingRecipes(exporter, RecipeCategory.MISC, Items.LAPIS_BLOCK, RecipeCategory.BUILDING_BLOCKS,
-         //       ModItems.ENCHANTED_LAPIS);
+        offerReversibleCompactingRecipes(exporter, RecipeCategory.MISC, Items.LAPIS_BLOCK, RecipeCategory.BUILDING_BLOCKS,
+                ModItems.ENCHANTED_LAPIS, "lapis_block_to_enchanted_lapis", "building_blocks", "enchanted_lapis_to_lapis_block", "misc");
 
     }
 }
